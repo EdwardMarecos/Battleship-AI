@@ -18,6 +18,9 @@ in progress
 in progress
 
 ## Try it Out!
+
+!!**_This game runs on java 8 (version 1.8)_**!!
+
 clone the Battleship-AI directory
 
 Ensure you are in the directory before running the following
